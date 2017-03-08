@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "55551932465",
+    "firebase_url": "https://fir-bb353.firebaseio.com",
+    "project_id": "fir-bb353",
+    "storage_bucket": "fir-bb353.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55551932465:android:dc998f5e0be39a07",
+        "android_client_info": {
+          "package_name": "cl.dev.android.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55551932465-uj9a67us6mv3vmjt164odvv528ptk3jt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.dev.android.firebaseauth",
+            "certificate_hash": "affcc2a6842e8f684e598a3aca0b6decffa52632"
+          }
+        },
+        {
+          "client_id": "55551932465-0qkaigr8tnuonhe450bnrrrvn541klj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDzNmoKDOfJGNGi0xwT0OOs6ecRwn_M3I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55551932465-0qkaigr8tnuonhe450bnrrrvn541klj6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "55551932465-vevs3gqug3jfn040ts51b6nqhg3pe2ck.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ios.zecovery.com.firebase"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55551932465:android:a849fb76d0a9e392",
+        "android_client_info": {
+          "package_name": "com.fbarrios.dev.twitterlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55551932465-n3v2e92rfihkggcic99e8qu23m9f0m4s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fbarrios.dev.twitterlogin",
+            "certificate_hash": "6ba92750fee9fb9b51c7b0f21a46649cad9d2599"
+          }
+        },
+        {
+          "client_id": "55551932465-0qkaigr8tnuonhe450bnrrrvn541klj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDzNmoKDOfJGNGi0xwT0OOs6ecRwn_M3I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55551932465-0qkaigr8tnuonhe450bnrrrvn541klj6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "55551932465-vevs3gqug3jfn040ts51b6nqhg3pe2ck.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ios.zecovery.com.firebase"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
